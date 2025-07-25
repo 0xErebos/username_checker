@@ -16,6 +16,7 @@ A simple Python script to check if a username is taken on multiple websites.
 
 - Python 3.6+
 - `requests` library
+- `customtkinter` library
 
 Install dependencies:
 
